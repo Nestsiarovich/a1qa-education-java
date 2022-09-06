@@ -1,0 +1,17 @@
+{
+  "dbURL" : "jdbc:mysql://localhost:3306/union_reporting",
+  "dbUsername" : "",
+  "dbPassword" : "",
+
+  "pathToLogConfig" : "src/test/resources/Logger.config",
+
+  "storedProcedureName1" : "Query1()",
+  "storedProcedureName2" : "Query2()",
+  "storedProcedureName3" : "Query3()",
+  "storedProcedureName4" : "Query4()",
+
+  "resultCSV1" : "src/test/resources/Result1.csv",
+  "resultCSV2" : "src/test/resources/Result2.csv",
+  "resultCSV3" : "src/test/resources/Result3.csv",
+  "resultCSV4" : "src/test/resources/Result4.csv"
+}
