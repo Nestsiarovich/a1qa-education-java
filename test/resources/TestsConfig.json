@@ -1,0 +1,8 @@
+{
+  "numberEachCharacterInPassword" : "4",
+
+  "emailLowercaseLatinCharNumber" : "10",
+  "domainLowercaseLatinCharNumber" : "5",
+
+  "pathToUploadScript" : "FileUpload.exe"
+}
