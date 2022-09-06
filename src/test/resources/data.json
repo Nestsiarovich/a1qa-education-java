@@ -1,0 +1,32 @@
+{
+  "patterns" :
+  {
+    "urlLocalhostWeb": "http://%s:%s@%s:%s/web/",
+    "urlLocalhostApi": "http://%s:%s/api/"
+  },
+  "apiMethods" :
+  {
+    "tokenGet" : "token/get",
+    "testGetJson" : "test/get/json",
+    "testPut" : "test/put",
+    "testPutLog" : "test/put/log",
+    "testPutAttachment" : "test/put/attachment"
+  },
+  "apiParams" :
+  {
+    "variant" : "variant",
+    "token" : "token",
+    "projectId" : "projectId",
+    "sid" : "SID",
+    "projectName" : "projectName",
+    "testName" : "testName",
+    "methodName": "methodName",
+    "env" : "env",
+    "testId" : "testId",
+    "content" : "content",
+    "contentType" : "contentType"
+  },
+  "contentType": {
+    "imagePng" : "image/png"
+  }
+}

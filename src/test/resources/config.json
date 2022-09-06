@@ -1,0 +1,23 @@
+{
+  "credentials": {
+    "login" : "",
+    "password" : "",
+    "machineAddress" : ""
+  },
+  "ports" :
+  {
+    "forTest" : 8080
+  },
+  "config" : {
+    "variant" : 2,
+
+    "homePageIndicator" : "Available projects",
+    "versionTextOnSite" : "Version: ",
+    "projectIdTextInHref" : "projectId=",
+    "projectNameForTest" : "Nexage",
+    "columnForSortName" : "Latest test start time",
+    "columnSearchName" : "Test name",
+
+    "randomStringLength" : 10
+  }
+}
