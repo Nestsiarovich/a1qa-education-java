@@ -1,0 +1,14 @@
+{
+  "urlToMainPage": "https://demoqa.com/",
+  "urlSamplePage": "https://demoqa.com/sample",
+
+  "txtAlertToSeeCheck": "You clicked a button",
+  "txtConfirmAlertCheck": "Do you confirm action?",
+  "txtPromptAlertCheck": "Please enter your name",
+  "txtRandomAlertCheck": "You entered ",
+  "txtConfirmOk": "You selected Ok",
+  "txtInParentFrameCheck": "Parent frame",
+  "txtInChildFrameCheck": "Child Iframe",
+
+  "ageError": "2"
+}
