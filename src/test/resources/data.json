@@ -1,0 +1,29 @@
+{
+  "urls" : {
+    "VkMainPage" : "https://vk.com/",
+    "VkApi" : "https://api.vk.com/method/"
+  },
+  "apiMethods" : {
+    "wallPost" : "wall.post",
+    "wallEdit" : "wall.edit",
+    "wallDelete" : "wall.delete",
+    "wallCreateComment" : "wall.createComment",
+    "likesIsLiked" : "likes.isLiked",
+    "docsGetWallUploadServer" : "docs.getWallUploadServer",
+    "docsSave" : "docs.save",
+    "usersGet" : "users.get"
+  },
+  "apiParamKeys" : {
+    "accessToken" : "access_token",
+    "version" : "v",
+    "massage" : "message",
+    "postId" : "post_id",
+    "type" : "type",
+    "itemId" : "item_id",
+    "file" : "file",
+    "attachments" : "attachments"
+  },
+  "apiParamValues" : {
+    "post" : "post"
+  }
+}

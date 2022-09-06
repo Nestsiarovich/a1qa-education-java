@@ -1,0 +1,16 @@
+{
+  "personalData" : {
+    "login" : "",
+    "password" : "",
+    "token" : "",
+    "mediaId" : ""
+  },
+  "paths" : {
+    "UploadDoc" : "src/test/resources/TestImage.jpg"
+  },
+  "config" :{
+    "apiVersion" : "5.131",
+    "lengthRandomString" : "10",
+    "userIndex" : "0"
+  }
+}
