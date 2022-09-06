@@ -1,0 +1,14 @@
+{
+  "mainPageURL" : "https://jsonplaceholder.typicode.com",
+
+  "emptyJsonObject" : "{}",
+  "fieldUserId" : "userId",
+  "fieldBody" : "body",
+  "fieldTitle" : "title",
+  "fieldId" : "id",
+
+  "99PostUserId" : "10",
+  "99PostId" : "99",
+  "101PostUserId" : "1",
+  "5UserId": "5"
+}
