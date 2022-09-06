@@ -1,0 +1,12 @@
+{
+  "urlToHomePage": "https://userinyerface.com/",
+
+  "minPasswordLength" : "10",
+
+  "interestsNumber" : "3",
+  "selectAllInterestsIndex" : "17",
+
+  "timerComparisonValue" : "00:00:00",
+
+  "comboBoxException" : "other"
+}
